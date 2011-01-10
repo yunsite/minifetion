@@ -1,3 +1,3 @@
-http://javafx.xicp.net:8080/fetion;
-http://fetion.xicp.cn:8080/fetion;
-http://android.vicp.hk:8081/fetion;
+http://javasf.gicp.net:8080/fetion;
+http://fetion.xicp.cn:8081/fetion;
+http://59.42.176.157:8080/fetion;
