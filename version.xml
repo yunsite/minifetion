@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <apps>
 	<app id="minifetion" name="迷你飞信" desc="
-优化迷你API，再次提升发送速度；
-改进收到好友短信时标记为已读的方式，完美解决系统短信软件重复通知的问题；
-完善通知机制：收到消息后不自动取消通知而是通过点击屏幕取消，从而解决通知铃声过长不能完整播放的问题；
-增加当前正在聊天时静音设置选项，默认启用；
-增加发送成功和失败的通知设置选项，发送失败或按菜单可选择短信发送；
-修正某些机型CMWAP有时不能使用的问题；
-修正状态栏图标的显示设置和启动时间变动的问题；
-调整部分设置选项和增加一些使用提示；
-非移动用户保持在线时长默认为10分钟，允许修改，增加在线1天选项；
-修复若干BUG和潜在的FC可能。" versionname="2.8.4" versioncode="284" package="com.hy.minifetion"  updateurl="http://droidapps.googlecode.com/files/MiniFetion-2.8.4.apk"/>
+使用新的官方API，操作更方便快速，在线接收更及时，适合长时间在线使用；
+修正上一版不能发定时短信的问题；
+修正上一版少数ROM不能下载好友列表的问题；
+修某些ROM正发完第一条消息后，第二条很慢或超时的问题；
+修正有多个好友消息通知时点击通知不能进入相应消息列表的问题；
+对不公开手机号的好友可以手动绑定手机号，用于识别好友短信；
+正在聊天时当前好友的新消息不显示通知图标；
+单条信息最长支持350字，其它一些问题修复和完善；" versionname="2.9.0" versioncode="290" package="com.hy.minifetion"  updateurl="http://droidapps.googlecode.com/files/MiniFetion-2.9.0.apk"/>
 </apps>
