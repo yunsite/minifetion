@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <apps>
 	<app id="minifetion" name="迷你飞信" desc="
-使用全新的消息弹出窗，更美观和方便；
-实现飞信离线时接收好友的普通短信，从而解决多个短信通知的问题；
-更合理的标记已读处理：仅在关闭弹出窗或打开会话时标记；
-增加删除单条短信或整个会话短信功能；
-点击好友头像可弹出快速联系工具条或查看联系人；
-完善消息通知设置：增加隐私模式和模动模式选项；
-在发消息界面收到其他好友的新消息时，左右滑动可以切换到新消息；
-消息列表的排序改回按收发顺序排序，同时增加按时间排序设置选项；
-修正某些情况下收到好友消息弹出键盘后会遮住最新消息的问题；
-使用新的高精度图标，调整黑色主题颜色，以及其它细节完善。" versionname="3.0" versioncode="300" package="com.hy.minifetion"  updateurl="http://droidapps.googlecode.com/files/MiniFetion-3.0.apk"/>
+收到消息弹窗后，增加自动点亮屏幕和解锁屏幕，以及隐私模式等选项；
+完善弹出窗多个细节：失败提醒、保存草稿、多条消息时回复不关闭窗口等；
+修复按HOME键退出后收到消息不能弹窗的问题；
+改善发消息体验，无须等待上一条发完便可写新信息；
+使用小图标表示消息的状态：发送中、发送成功和失败；
+提高保持在线的稳定性，减少掉线的可能；
+状态栏通知显示飞信的登录状态；
+增加隐身或在线登录飞信设置选项；
+会话界面增加是否显示头像设置选项；
+群发时只保存一条消息到系统短信；
+好友列表增加显示用户资料和登录状态选项，可快速登录和注销；
+调整设置界面以及使用黑色主题时背景同为黑色，调整部分图标。" versionname="3.1" versioncode="310" package="com.hy.minifetion"  updateurl="http://droidapps.googlecode.com/files/MiniFetion-3.1.apk" 
+updateurl2="http://minifetion.googlecode.com/files/MiniFetion-3.1.apk"/>
 </apps>
