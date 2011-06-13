@@ -1,0 +1,4 @@
+a14d9beebed84f4
+5,50,10,40,20,80,5,300,1
+1
+com.android.mblog
