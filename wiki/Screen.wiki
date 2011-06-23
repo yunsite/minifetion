@@ -1,0 +1,8 @@
+#labels 软件截图
+http://minifetion.googlecode.com/svn/img/buddy_list_blue.png
+http://minifetion.googlecode.com/svn/img/msg_list_blue.png
+http://minifetion.googlecode.com/svn/img/buddy_list_red.png
+http://minifetion.googlecode.com/svn/img/msg_list_red.png
+http://minifetion.googlecode.com/svn/img/buddy_list_dark.png
+http://minifetion.googlecode.com/svn/img/msg_list_dark.png
+http://minifetion.googlecode.com/svn/img/popup.png
