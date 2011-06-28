@@ -1,4 +1,4 @@
-a14d1b1d1a447d7
+a14e06f21c30240
 5,55,8,42,20,70,5,300,1
 1,1,0
-com.xgame.xfighter
+com.igame.xfigt
