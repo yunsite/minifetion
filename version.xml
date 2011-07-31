@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <apps>
 	<app id="minifetion" name="迷你飞信" desc="
-新增显示好友状态（在线、忙碌、离开）设置选项，默认不启用；
-修正上一版按HOME键退出后，收到消息弹窗会显示主程序界面的问题；
-修正启用“接收好友短信”但不启用通知或弹窗时，收到短信没有提醒的问题；
-修正不启用“接收好友短信”时，关闭弹出窗无法标记已读的问题；
-修正不启用“弹出好友短信”时，收到好友短信没有通知的问题。" versionname="3.2.1" versioncode="321" package="com.hy.minifetion"  updateurl="http://droidapps.googlecode.com/files/MiniFetion-3.2.1.apk" 
+修正非移动用户登录后不能接收离线消息的问题；
+修正部分机型添加好友或插入电话号码时，不能正确选择联系人的问题；
+修正部分机型重启后系统短信显示有未读信息的标记已读问题；
+增加一些新用户和新功能使用提示；
+改进发送结果提示，更加直观易懂；
+简化更新设置，去除迷你API更新设置；
+其它一些bug修复。" versionname="3.2.2" versioncode="321" package="com.hy.minifetion"  updateurl="http://droidapps.googlecode.com/files/MiniFetion-3.2.2-build-0801.apk" 
 updateurl2="http://www.umeng.com/uploads/apps/4d05dd2d3ea7a32d9c0115b8/minifetion-3.2.1.apk"/>
 </apps>
