@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <apps>
 	<app id="minifetion" name="迷你飞信" desc="
+修正上一版在2.1及早期的ROM无法标记已读的问题；
+允许删除本地未分组中自己的账号，从而不显示；
+修正弹出窗潜在的FC错误；
 修正打电话时容易引起程序强制关闭的问题。
-新增一套淡雅蓝色主题；
-新增“禁止短信通知和弹窗”选项，离线时收到短信停用通知和弹窗；
-支持登录后立即接收离线时的消息(没有绑定手机的用户或好友)；
-修正部分机型添加好友或插入电话号码时，不能正确选择联系人的问题；
-修正部分机型重启后系统短信显示有未读信息的问题；
-修正弹出窗回复后，在会话界面输入框有时会显示上次的发送内容；
-改进发送结果提示和一些设置项说明，更加直观易懂；
-简化更新设置，去除迷你API自动更新及设置；
-增加一些新用户和新功能使用提示；
-其它一些bug修复和优化。" versionname="3.2.3" versioncode="323" package="com.hy.minifetion"  updateurl="http://droidapps.googlecode.com/files/MiniFetion-3.2.3.apk" 
-updateurl2="http://www.umeng.com/uploads/apps/4d05dd2d3ea7a32d9c0115b8/minifetion-3.2.3.apk"/>
+" versionname="3.2.4" versioncode="324" package="com.hy.minifetion"  updateurl="http://minifetion.googlecode.com/files/MiniFetion-3.2.4.apk" 
+updateurl2="http://www.umeng.com/uploads/apps/4d05dd2d3ea7a32d9c0115b8/minifetion-3.2.4.apk"/>
 </apps>
