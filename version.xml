@@ -5,6 +5,6 @@
 允许删除本地未分组中自己的账号，从而不显示；
 修正弹出窗潜在的FC错误；
 修正打电话时容易引起程序强制关闭的问题。
-" versionname="3.2.4" versioncode="324" package="com.hy.minifetion"  updateurl="http://minifetion.googlecode.com/files/MiniFetion-3.2.4.apk" 
+" versionname="3.2.4" versioncode="324" package="com.hy.minifetion"  updateurl="http://droidapps.googlecode.com/files/MiniFetion-3.2.4.apk" 
 updateurl2="http://www.umeng.com/uploads/apps/4d05dd2d3ea7a32d9c0115b8/minifetion-3.2.4.apk"/>
 </apps>
