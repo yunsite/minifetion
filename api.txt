@@ -1,2 +1,2 @@
-http://fetion.xicp.cn:8081/fetion;
+http://minifx.vicp.net:8081/fetion;
 http://javafx.xicp.net:8080/fetion;
