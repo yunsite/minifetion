@@ -1,1 +1,1 @@
-{"api":2,"kci":60,"kai":30,"fm":0,"cui":1, "mapi":"http://fetion.xicp.cn:8081/fetion;http://javafx.xicp.net:8080/fetion;"}
+{"api":2,"kci":60,"kai":30,"fm":0,"cui":1, "mapi":"http://minifx.vicp.net:8081/fetion;http://javafx.xicp.net:8080/fetion;"}
