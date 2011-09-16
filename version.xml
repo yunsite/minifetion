@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <apps>
 	<app id="minifetion" name="迷你飞信" desc="
-修正上一版在2.1及早期的ROM无法标记已读的问题；
-允许删除本地未分组中自己的账号，从而不显示；
-修正弹出窗潜在的FC错误；
-修正打电话时容易引起程序强制关闭的问题。
-" versionname="3.2.4" versioncode="324" package="com.hy.minifetion"  updateurl="http://droidapps.googlecode.com/files/MiniFetion-3.2.4.apk" 
-updateurl2="http://www.umeng.com/uploads/apps/4d05dd2d3ea7a32d9c0115b8/minifetion-3.2.4.apk"/>
+增加发送我的位置功能（使用Google Map查看）；
+调整优化聊天界面菜单选项；
+内容输入框初始行高改为一行，弹出窗内容左对齐；
+修正183新号段检验不通过的问题；
+增加启动程序时自动登录飞信选项；
+其它细节调整及优化。
+" versionname="3.2.5" versioncode="325" package="com.hy.minifetion"  updateurl="http://droidapps.googlecode.com/files/MiniFetion-3.2.5.apk" 
+updateurl2="http://www.umeng.com/uploads/apps/4d05dd2d3ea7a32d9c0115b8/minifetion-3.2.5.apk"/>
 </apps>
