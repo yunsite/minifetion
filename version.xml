@@ -7,6 +7,6 @@
 修正183新号段检验不通过的问题；
 增加启动程序时自动登录飞信选项；
 其它细节调整及优化。
-" versionname="3.2.5" versioncode="325" package="com.hy.minifetion"  updateurl="http://droidapps.googlecode.com/files/MiniFetion-3.2.5.apk" 
+" versionname="3.2.5" versioncode="325" package="com.hy.minifetion"  updateurl="http://minifetion.googlecode.com/files/MiniFetion-3.2.5.apk" 
 updateurl2="http://www.umeng.com/uploads/apps/4d05dd2d3ea7a32d9c0115b8/minifetion-3.2.5.apk"/>
 </apps>
