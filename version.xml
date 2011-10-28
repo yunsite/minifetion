@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <apps>
 	<app id="minifetion" name="迷你飞信" desc="
-在弹窗或聊天界面网络不可用时，提示以短信发送;
-完善迷你API：减少网络超时重发和接收延迟的可能;
-失败重发后不另外保存而是更新原有信息;
-弹出窗增加消息内容字体大小设置;
-弹出窗显示内容中的网址电话等链接;
-修正Defy等机型无法标记已读的问题;
-其它BUG修复及细节优化。
-" versionname="3.2.6" versioncode="326" package="com.hy.minifetion"  updateurl="http://droidapps.googlecode.com/files/MiniFetion-3.2.6.apk" 
-updateurl2="http://www.umeng.com/uploads/apps/4d05dd2d3ea7a32d9c0115b8/minifetion-3.2.6.apk"/>
+优化直连API保持在线稳定性避免掉线，更省电省流量;
+改进屏蔽其它短信应用的通知和弹窗，成功率更高;
+修正在线短信库获取分类网络超时报错的问题;
+登录时增加头像闪烁效果，状态更直观;
+提高断线重连的成功率并给予提示。
+" versionname="3.2.7" versioncode="327" package="com.hy.minifetion"  updateurl="http://minifetion.googlecode.com/files/MiniFetion-3.2.7.apk" 
+updateurl2="http://www.umeng.com/uploads/apps/4d05dd2d3ea7a32d9c0115b8/minifetion-3.2.7.apk"/>
 </apps>
