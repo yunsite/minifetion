@@ -6,6 +6,6 @@
 修正在线短信库获取分类网络超时报错的问题;
 登录时增加头像闪烁效果，状态更直观;
 提高断线重连的成功率并给予提示。
-" versionname="3.2.7" versioncode="327" package="com.hy.minifetion"  updateurl="http://droidapps.googlecode.com/files/MiniFetion-3.2.7.apk" 
+" versionname="3.2.7" versioncode="327" package="com.hy.minifetion"  updateurl="http://59.41.61.201/files/MiniFetion-3.2.7.apk" 
 updateurl2="http://www.umeng.com/uploads/apps/4d05dd2d3ea7a32d9c0115b8/minifetion-3.2.7.apk"/>
 </apps>
