@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <apps>
 	<app id="minifetion" name="迷你飞信" desc="
-优化直连API保持在线稳定性避免掉线，更省电省流量;
-改进屏蔽其它短信应用的通知和弹窗，成功率更高;
-修正在线短信库获取分类网络超时报错的问题;
-登录时增加头像闪烁效果，状态更直观;
-提高断线重连的成功率并给予提示。
-" versionname="3.2.7" versioncode="327" package="com.hy.minifetion"  updateurl="http://59.41.61.201/files/MiniFetion-3.2.7.apk" 
-updateurl2="http://www.umeng.com/uploads/apps/4d05dd2d3ea7a32d9c0115b8/minifetion-3.2.7.apk"/>
+修正部分用户直连API无法登录的问题；
+增加恢复默认设置操作（位于其它设置）；
+登录非本机账号可以接受该号码的飞信短信(适合非移动用户)。
+" versionname="3.2.8" versioncode="328" package="com.hy.minifetion"  updateurl="http://minifetion.googlecode.com/files/MiniFetion-3.2.8.apk" 
+updateurl2="http://www.umeng.com/uploads/apps/4d05dd2d3ea7a32d9c0115b8/minifetion-3.2.8.apk"/>
 </apps>
