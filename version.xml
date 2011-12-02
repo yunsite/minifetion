@@ -4,6 +4,6 @@
 修正部分用户直连API无法登录的问题；
 增加恢复默认设置操作（位于其它设置）；
 登录非本机账号可以接受该号码的飞信短信(适合非移动用户)。
-" versionname="3.2.8" versioncode="328" package="com.hy.minifetion"  updateurl="http://minifetion.googlecode.com/files/MiniFetion-3.2.8.apk" 
+" versionname="3.2.8" versioncode="328" package="com.hy.minifetion"  updateurl="http://droidapps.googlecode.com/files/MiniFetion-3.2.8.apk" 
 updateurl2="http://www.umeng.com/uploads/apps/4d05dd2d3ea7a32d9c0115b8/minifetion-3.2.8.apk"/>
 </apps>
