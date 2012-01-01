@@ -6,6 +6,6 @@
 修正刷新单个好友资料时分组丢失的问题;
 去除容易混淆的飞信和短信弹窗设置，合并为'启用弹出窗';
 修正去除前缀号12520后，点击消息通知不能标记已读的问题。" 
-versionname="3.2.9" versioncode="329" package="com.hy.minifetion" updateurl="http://59.41.61.201/files/MiniFetion-3.2.9.apk" 
+versionname="3.2.9" versioncode="329" package="com.hy.minifetion" updateurl="http://59.41.61.201/files/MiniFetion-3.2.9b.apk" 
 updateurl2="http://www.umeng.com/uploads/apps/4d05dd2d3ea7a32d9c0115b8/minifetion-3.2.9.apk"/>
 </apps>
