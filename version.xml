@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <apps>
 	<app id="minifetion" name="迷你飞信" desc="
-继续优化飞信API，大幅提升登录速度和发送速度，更省流量;
-支持CMWAP网络使用官方直连API;
-修正刷新单个好友资料时分组丢失的问题;
-去除容易混淆的飞信和短信弹窗设置，合并为'启用弹出窗';
-修正去除前缀号12520后，点击消息通知不能标记已读的问题。" 
-versionname="3.2.9" versioncode="329" package="com.hy.minifetion" updateurl2="http://59.41.61.201/files/MiniFetion-3.2.9b.apk" 
-updateurl="http://www.umeng.com/uploads/apps/4d05dd2d3ea7a32d9c0115b8/minifetion-3.2.9.apk"/>
+支持图片和文件发送功能；
+点击头像可以更换用户头像；
+解决有时意外断网或切换网络不能自动重连的问题；
+使用GPRS登录时，通话挂机后断线可自动重连；
+支持超长信息（超过350字）自动分条发送；
+群发成功后分别保存每个好友的信息；
+修正好友列表有时不按拼音字母排序的问题；
+修正上个版本在1.5和1.6系统检查更新时报错的问题；
+提高部分图标精度和其它细节完善。" 
+versionname="3.3" versioncode="330" package="com.hy.minifetion" updateurl="http://minifetion.googlecode.com/files/MiniFetion-3.3.apk" 
+updateurl2="http://www.umeng.com/uploads/apps/4d05dd2d3ea7a32d9c0115b8/minifetion-3.3.apk"/>
 </apps>
