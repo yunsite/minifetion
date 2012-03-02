@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <apps>
 	<app id="minifetion" name="迷你飞信" desc="
-支持图片和文件发送功能；
-点击头像可以更换用户头像；
-解决有时意外断网或切换网络不能自动重连的问题；
-使用GPRS登录时，通话挂机后断线可自动重连；
-支持超长信息（超过350字）自动分条发送；
-群发成功后分别保存每个好友的信息；
-修正好友列表有时不按拼音字母排序的问题；
-修正上个版本在1.5和1.6系统检查更新时报错的问题；
-提高部分图标精度和其它细节完善。" 
-versionname="3.3" versioncode="330" package="com.hy.minifetion" updateurl="http://www.umeng.com/uploads/apps/4d2d51af3ea7a308bc003dba/minifetion-3.3.apk" 
-updateurl2="http://www.umeng.com/uploads/apps/4d05dd2d3ea7a32d9c0115b8/minifetion-3.3.apk"/>
+修复上个版本在某些机型输入信息时会崩溃的问题；
+新增开机后自动登录飞信选项（位于其它设置）；
+其它细节优化及潜在问题修复。" 
+versionname="3.3.1" versioncode="331" package="com.hy.minifetion" updateurl="http://minifetion.googlecode.com/files/MiniFetion-3.3.1.apk" 
+updateurl2="http://www.umeng.com/uploads/apps/4d05dd2d3ea7a32d9c0115b8/minifetion-3.3.1.apk"/>
 </apps>
