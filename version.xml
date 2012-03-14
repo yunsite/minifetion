@@ -4,6 +4,6 @@
 修复上个版本在某些机型有时可能会崩溃的问题；
 新增开机后自动登录飞信选项（位于其它设置）；
 其它细节优化及潜在问题修复。" 
-versionname="3.3.1" versioncode="331" package="com.hy.minifetion" updateurl="http://www.umeng.com/uploads/apps/4ef03365527015677e00001d/minifetion-3.3.1.apk" 
+versionname="3.3.1" versioncode="331" package="com.hy.minifetion" updateurl="http://droidapps.googlecode.com/files/MiniFetion-3.3.1.apk" 
 updateurl2="http://www.umeng.com/uploads/apps/4d05dd2d3ea7a32d9c0115b8/minifetion-3.3.1.apk"/>
 </apps>
