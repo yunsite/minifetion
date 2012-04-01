@@ -24,6 +24,6 @@ CMWAP下自动检测是否支持直连API，自动选择API；
 修正某些好友搜索可见但不显示在任何分组里；
 大部分界面细节调整优化，体验更好；
 大部分代码重构优化和细节完善。" 
-versionname="3.4" versioncode="340" package="com.hy.minifetion" updateurl="http://minifetion.googlecode.com/files/MiniFetion-3.4.apk" 
+versionname="3.4" versioncode="340" package="com.hy.minifetion" updateurl="http://droidapps.googlecode.com/files/MiniFetion-3.4.apk" 
 updateurl2="http://www.umeng.com/uploads/apps/4d05dd2d3ea7a32d9c0115b8/minifetion-3.4.apk"/>
 </apps>
