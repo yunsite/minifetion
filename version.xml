@@ -1,9 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <apps>
 	<app id="minifetion" name="迷你飞信" desc="
-修复上个版本在某些机型有时可能会崩溃的问题；
-新增开机后自动登录飞信选项（位于其它设置）；
-其它细节优化及潜在问题修复。" 
-versionname="3.3.1" versioncode="331" package="com.hy.minifetion" updateurl="http://droidapps.googlecode.com/files/MiniFetion-3.3.1.apk" 
-updateurl2="http://www.umeng.com/uploads/apps/4d05dd2d3ea7a32d9c0115b8/minifetion-3.3.1.apk"/>
+优化核心逻辑，避免登录或发送失败，大幅提升稳定性；
+减少显示好友状态时登录的流量，调整默认设置为显示；
+群发后所有信息保存在同一会话线程，方便管理；
+改进飞信与普通短信合并同一会话选项；
+会话界面可批量删除信息，更易管理；
+WIFI网络下自动优化显示好友状态；
+简化定时短信的时间选择操作，更快捷；
+简化会话界面手势滑动设置为返回好友列表；
+点击失败信息提示重发，失败重发的不保存新信息；
+取消在未分组中显示自己，点击顶部可给自己发信息；
+消息弹窗中长按头像或关闭按钮可删除信息；
+改进自动检查更新方式更省流量；
+新增信息附加签名选项（收发设置）；
+自动适配MIUI系统菜单图标；
+最近联系人去除最多15个的限制；
+添加好友支持输入部分号码自动搜索；
+CMWAP下自动检测是否支持直连API，自动选择API；
+修正CMWAP下发送图片可能出现图片不完整的问题；
+修正弹窗回复后某些输入法键盘不能自动收起的问题；
+修正Android 4.0下一些兼容性问题；
+修正某些好友搜索可见但不显示在任何分组里；
+大部分界面细节调整优化，体验更好；
+大部分代码重构优化和细节完善。
+versionname="3.3.1" versioncode="331" package="com.hy.minifetion" updateurl="http://minifetion.googlecode.com/files/MiniFetion-3.4.apk" 
+updateurl2="http://www.umeng.com/uploads/apps/4d05dd2d3ea7a32d9c0115b8/minifetion-3.4.apk"/>
 </apps>
