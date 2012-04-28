@@ -8,5 +8,5 @@ http://minifetion.googlecode.com/svn/img/buddy_list_red.png
 http://minifetion.googlecode.com/svn/img/buddy_list_dark.png
 http://minifetion.googlecode.com/svn/img/msg_list_dark.png
 http://minifetion.googlecode.com/svn/img/chat_icon.png
-http://minifetion.googlecode.com/svn/img/popup_withe.png
+http://minifetion.googlecode.com/svn/img/popup_white.png
 http://minifetion.googlecode.com/svn/img/insert.png
