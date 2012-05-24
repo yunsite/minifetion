@@ -1,22 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <apps>
 <app id="minifetion" name="迷你飞信" desc="
-支持自定义界面背景图，美感由你定义；
-优先显示手机通讯录头像，没有再显示飞信头像（可设置）；
-完善通知显示方式，新消息在状态栏滚动显示；
-重新优化分类设置选项，更直观明了；
-修正M9弹窗后解锁会花屏的问题；
-修正弹窗内容多时弹起键盘弹窗会缩小的问题；
-修正群发人数过多时界面可能无响应的问题；
-修正某些ROM弹窗快捷回复后键盘不能自动收起的问题；
-修正发定时短信手输日期或时间数值可能未变化的问题；
-修正用飞信号登录时给自己发信息提示不是好友的问题；
-修正给自己发消息弹窗时可能出错的问题；
-取消迷你API群发最多50人的限制；
-调整定时短信时间选择为24小时制；
-调整默认弹窗样式为白色；
-调整部分界面和其它问题修复。" 
-versionname="3.4.2" versioncode="342" package="com.hy.minifetion" 
-updateurl="http://minifetion.googlecode.com/files/MiniFetion-3.4.3_build0522.apk" 
-updateurl2="http://www.umeng.com/uploads/apps/4d05dd2d3ea7a32d9c0115b8/minifetion-3.4.2.apk"/>
+支持登录联通电信号码，添加联通电信号码好友；
+头像图标圆角化处理，更简洁大方；
+通知栏滚动消息内容前面显示好友名称；
+解决某些地区CMWAP下迷你API不可用的问题；
+离线消息（登录时接收）显示对方实际发送时间；
+当不能发送或对方不能接收飞信短信时，自动以消息发送；
+好友数超过100时，初始设置为不显示好友状态以节省流量；
+修正黑色主题下设置背景图选项看不清的问题；
+修正极少数情况下刷新列表时会出错的问题；
+未输入内容时点击发送按钮可切换发送方式；
+定时短信取消一年内时间限制；
+解析新版飞信表情为文本；
+其它优化和问题修复。" 
+versionname="3.4.3" versioncode="342" package="com.hy.minifetion" 
+updateurl="http://minifetion.googlecode.com/files/MiniFetion-3.4.3.apk" 
+updateurl2="http://www.umeng.com/uploads/apps/4d05dd2d3ea7a32d9c0115b8/minifetion-3.4.3.apk"/>
 </apps>
