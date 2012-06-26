@@ -11,6 +11,6 @@
 修正首次登录状态可能显示不正确的问题；
 其它细节优化和若干问题修复。" 
 versionname="3.4.5" versioncode="343" package="com.hy.minifetion" 
-updateurl="http://droidapps.googlecode.com/files/MiniFetion-3.4.5.apk" 
+updateurl="http://minifetion.googlecode.com/files/MiniFetion-3.4.5.apk" 
 updateurl2="http://www.umeng.com/uploads/apps/4d05dd2d3ea7a32d9c0115b8/minifetion-3.4.3.apk"/>
 </apps>
