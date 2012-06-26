@@ -1,19 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <apps>
 <app id="minifetion" name="迷你飞信" desc="
-支持登录联通电信号码，添加联通电信好友；
-头像图标圆角化处理，更简洁大方；
-通知栏滚动消息内容前面显示好友名称；
-解决某些地区CMWAP下迷你API不可用的问题；
-离线消息（登录时接收）显示对方实际发送时间；
-当不能发送或对方不能接收飞信短信时，自动以消息发送；
-好友数超过100时，初始设置为不显示好友状态以节省流量；
-修正黑色主题下设置背景图选项看不清的问题；
-未输入内容时点击发送按钮可切换发送方式；
-定时短信取消一年内时间限制；
-解析新版飞信表情为文本；
-其它优化和问题修复。" 
-versionname="3.4.3" versioncode="343" package="com.hy.minifetion" 
-updateurl="http://droidapps.googlecode.com/files/MiniFetion-3.4.5-build0625.apk" 
+在线时收到拇指群信息保存到系统短信；
+迷你API压缩数据传输以节省流量和提高速度；
+支持联通电信WAP网络使用迷你API；
+增加群发消息分会话保存显示选项；
+解决Android 4.0开机不能自动登录的问题；
+删除好友，同时将自己从对方的好友列表中删除；
+修正部分小内存机型加载联系人头像过大时出错的问题；
+修正首次登录状态可能显示不正确的问题；
+其它细节优化和若干问题修复。" 
+versionname="3.4.5" versioncode="343" package="com.hy.minifetion" 
+updateurl="http://droidapps.googlecode.com/files/MiniFetion-3.4.5.apk" 
 updateurl2="http://www.umeng.com/uploads/apps/4d05dd2d3ea7a32d9c0115b8/minifetion-3.4.3.apk"/>
 </apps>
