@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <apps>
 <app id="minifetion" name="迷你飞信" desc="
-在线时收到拇指群信息保存到系统短信；
-迷你API压缩数据传输以节省流量和提高速度；
-支持联通电信WAP网络使用迷你API；
-增加群发消息分会话保存显示选项；
-解决Android 4.0开机不能自动登录的问题；
-删除好友同时将自己从对方的好友列表中删除；
-修正部分小内存机型加载联系人头像过大时出错的问题；
-修正首次登录状态可能显示不正确的问题；
-其它细节优化和若干问题修复。" 
-versionname="3.4.5" versioncode="345" package="com.hy.minifetion" 
-updateurl2="http://droidapps.googlecode.com/files/MiniFetion-3.4.5.apk" 
-updateurl="http://minifetion.googlecode.com/files/MiniFetion-3.4.5.apk"/>
+优化登录，解决有时无法登录的问题；
+适配Android 4.0 ICS系统菜单图标；
+消息通知可选择LED颜色；
+修正上版某些机型消息通知LED不闪烁的问题；
+修正无名称的好友来短信没有通知或弹窗的问题；
+修正CMWAP下首次使用可能无法获取验证码的问题；
+修正CMWAP下可能无法刷新头像的问题；
+其它细节优化和问题修复。" 
+versionname="3.4.6" versioncode="346" package="com.hy.minifetion" 
+updateurl="http://minifetion.googlecode.com/files/MiniFetion-3.4.6.apk" 
+updateurl2="http://droidapps.googlecode.com/files/MiniFetion-3.4.6.apk"/>
 </apps>
