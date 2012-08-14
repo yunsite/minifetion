@@ -10,6 +10,6 @@
 修正CMWAP下可能无法刷新头像的问题；
 其它细节优化和问题修复。" 
 versionname="3.4.6" versioncode="346" package="com.hy.minifetion" 
-updateurl="http://minifetion.googlecode.com/files/MiniFetion-3.4.6.apk" 
+updateurl="http://droidapps.googlecode.com/files/MiniFetion-3.4.7-build0814.apk" 
 updateurl2="http://droidapps.googlecode.com/files/MiniFetion-3.4.6.apk"/>
 </apps>
