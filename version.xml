@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <apps>
 <app id="minifetion" name="迷你飞信" desc="
-优化登录，解决有时无法登录的问题；
-适配Android 4.0 ICS系统菜单图标；
-消息通知可选择LED颜色；
-修正上版某些机型消息通知LED不闪烁的问题；
-修正无名称的好友来短信没有通知或弹窗的问题；
-修正CMWAP下首次使用可能无法获取验证码的问题；
-修正CMWAP下可能无法刷新头像的问题；
+切换后保存默认发送方式（点击或长按发送按钮切换）；
+优化迷你API取消息策略，以免消息丢失；
+修正在线时用普通短信回复飞信短信会收到重复短信的问题；
+修正上个版本加载好友头像时可能会出错的问题；
+修正CMWAP下自动更新下载包失败的问题；
 其它细节优化和问题修复。" 
-versionname="3.4.6" versioncode="346" package="com.hy.minifetion" 
-updateurl="http://droidapps.googlecode.com/files/MiniFetion-3.4.7-build0814.apk" 
-updateurl2="http://droidapps.googlecode.com/files/MiniFetion-3.4.6.apk"/>
+versionname="3.4.7" versioncode="347" package="com.hy.minifetion" 
+updateurl="http://minifetion.googlecode.com/files/MiniFetion-3.4.7.apk" 
+updateurl2="http://droidapps.googlecode.com/files/MiniFetion-3.4.7.apk"/>
 </apps>
