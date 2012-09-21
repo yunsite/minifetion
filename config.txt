@@ -1,1 +1,1 @@
-{"api":2,"ci":300,"kci":28,"kai":30,"cui":1,"nv":347,"mapi":"http://javasf.gicp.net:8081/fetion;http://android.vicp.hk:8082/fetion"}
+{"api":2,"ci":300,"kci":28,"kai":30,"cui":1,"nv":347,"mapi":"http://javasf.gicp.net:8082/fetion;http://android.vicp.hk:8081/fetion"}
