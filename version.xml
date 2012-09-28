@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <apps>
 <app id="minifetion" name="迷你飞信" desc="
-切换后保存默认发送方式（点击或长按发送按钮切换）；
-优化迷你API取消息策略，以免消息丢失；
-修正在线时用普通短信回复飞信短信会收到重复短信的问题；
-修正上个版本加载好友头像时可能会出错的问题；
-修正CMWAP下自动更新下载包失败的问题；
-其它细节优化和问题修复。" 
-versionname="3.4.7" versioncode="347" package="com.hy.minifetion" 
-updateurl="http://droidapps.googlecode.com/files/MiniFetion-3.4.8-build0926.apk" 
-updateurl2="http://droidapps.googlecode.com/files/MiniFetion-3.4.8-build0926.apk"/>
+解决网络差时掉线和发送失败等问题；
+优化异常断线重连，保持在线更稳定；
+优化超时重发消息，减少超时等待时间；
+优化飞信在线离线状态通知栏显示方式；
+解决API服务器失效导致的超时或失败问题；
+修正首次登录好友列表可能空白的问题；
+取消未输入时点击发送按钮切换发送方式；
+其它细节优化和完善。" 
+versionname="3.4.8" versioncode="348" package="com.hy.minifetion" 
+updateurl="http://minifetion.googlecode.com/files/MiniFetion-3.4.8.apk" 
+updateurl2="http://droidapps.googlecode.com/files/MiniFetion-3.4.8.apk"/>
 </apps>
