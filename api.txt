@@ -1,2 +1,2 @@
 http://javasf.gicp.net:8081/fetion;
-http://fetion.xicp.cn:8082/fetion;
+http://android.vicp.hk:8082/fetion;
