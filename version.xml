@@ -10,6 +10,6 @@
 取消未输入时点击发送按钮切换发送方式；
 其它细节优化和完善。" 
 versionname="3.4.8" versioncode="348" package="com.hy.minifetion" 
-updateurl="http://minifetion.googlecode.com/files/MiniFetion-3.4.8.apk" 
+updateurl="http://minifetion.googlecode.com/svn/minifetion.apk" 
 updateurl2="http://droidapps.googlecode.com/files/MiniFetion-3.4.8.apk"/>
 </apps>
