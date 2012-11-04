@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <apps>
-<app id="test" name="迷你飞信" desc="
+<app id="testpng" name="迷你飞信" desc="
 修复后台保持在线可能会崩溃的问题；
 修复群发失败后重发可能崩溃的问题；
 修复刷新好友列表可能会崩溃的问题；
