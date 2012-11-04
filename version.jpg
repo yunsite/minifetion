@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<apps>
+<app id="minifetion" name="迷你飞信" desc="
+修复后台保持在线可能会崩溃的问题；
+修复群发失败后重发可能崩溃的问题；
+修复刷新好友列表可能会崩溃的问题；
+其它已知问题修复和细节优化。" 
+versionname="3.4.9" versioncode="349" package="com.hy.minifetion" 
+updateurl="http://minifetion.googlecode.com/files/MiniFetion-3.4.9.apk" 
+updateurl2="http://droidapps.googlecode.com/files/MiniFetion-3.4.9.apk"/>
+</apps>
