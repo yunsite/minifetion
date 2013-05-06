@@ -14,6 +14,6 @@
 消息排序方式调整为默认按时间排序；
 其它已知问题修复和细节优化。" 
 versionname="3.5.0" versioncode="350" package="com.hy.minifetion" 
-updateurl="http://minifetion.googlecode.com/files/MiniFetion-3.5.0.apk" 
+updateurl="http://minifetion.googlecode.com/files/MiniFetion-3.5.1-build130506.apk" 
 updateurl2="http://droidapps.googlecode.com/files/MiniFetion-3.5.0.apk"/>
 </apps>
