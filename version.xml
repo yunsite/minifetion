@@ -10,6 +10,6 @@
 解决密码中带空格提示密码错误；
 其它已知问题修复和细节优化。" 
 versionname="3.5.1" versioncode="351" package="com.hy.minifetion" 
-updateurl="http://minifetion.googlecode.com/files/MiniFetion-3.5.1.apk" 
-updateurl2="http://droidapps.googlecode.com/files/MiniFetion-3.5.1.apk"/>
+updateurl2="http://minifetion.googlecode.com/files/MiniFetion-3.5.1.apk" 
+updateurl="http://droidapps.googlecode.com/files/MiniFetion-3.5.1.apk"/>
 </apps>
