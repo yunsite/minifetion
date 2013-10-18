@@ -2,11 +2,12 @@
 <apps>
 <app id="minifetion" name="迷你飞信" desc="
 全新主题界面；
+大量细节优化；
+优化登录过程；
 优化断线重连；
 优化文件传送；
-大量细节优化；
-已知问题修复。" 
-versionname="4.0 Preview" versioncode="351" package="com.hy.minifetion" 
-updateurl="http://minifetion.googlecode.com/files/MiniFetion-4.0-RC.apk" 
+修复已知问题。" 
+versionname="4.0" versioncode="400" package="com.hy.minifetion" 
+updateurl="http://minifetion.googlecode.com/files/MiniFetion-4.0.apk" 
 updateurl2="http://minifetion.googlecode.com/svn/minifetion.apk"/>
 </apps>
