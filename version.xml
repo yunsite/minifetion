@@ -9,6 +9,6 @@
 修复已知问题。
 (如有问题请卸载后重装)" 
 versionname="4.0" versioncode="400" package="com.hy.minifetion" 
-updateurl="http://minifetion.googlecode.com/files/MiniFetion-4.0.apk" 
-updateurl2="http://minifetion.googlecode.com/svn/minifetion.apk"/>
+updateurl2="http://minifetion.googlecode.com/files/MiniFetion-4.0.apk" 
+updateurl="http://minifetion.googlecode.com/svn/minifetion.apk"/>
 </apps>
