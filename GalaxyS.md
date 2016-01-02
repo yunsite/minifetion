@@ -1,0 +1,1 @@
+解决办法：使用文件管理工具（RE等），删除/dbdata/databases/com.hy.minifetion目录即可。
